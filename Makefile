@@ -1,3 +1,3 @@
 all:
-	gcc vice.c -o vice.exe
+	gcc vice.c init.c -o vice.exe
 
